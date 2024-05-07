@@ -57,7 +57,8 @@ except Exception as e:
 ```
 <H3> Output:</H3>
 
-![](1.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex-8--AAI/assets/94294872/c97e1945-2af4-4324-8b56-0a14f0610dd2)
+
 
 <H3> Result:</H3>
 
